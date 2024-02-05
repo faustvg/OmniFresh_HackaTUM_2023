@@ -1,0 +1,2 @@
+# OnlyFresh
+In this project, we build an IOS app that elevates the cooking experience by tailoring recipes to each user's unique tastes, dietary restrictions, lifestyle preferences and culinary proficiency.

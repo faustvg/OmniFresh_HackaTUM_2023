@@ -1,0 +1,384 @@
+[{
+  "index": 33,
+  "name": "BBQ Chicken Pizza",
+  "headline": "A delicious homemade pizza topped with BBQ chicken, red onions, and mozzarella, baked to a perfect golden brown.",
+  "prepTime": "PT30M",
+  "image": "None",
+  "tags": ["family-friendly", "under 30 minutes", "bestseller"],
+  "nutrition": {
+    "Energy": "2100 kJ",
+    "Calories": "500 kcal",
+    "Fat": "20 g",
+    "Saturated Fat": "7 g",
+    "Carbohydrate": "55 g",
+    "Sugar": "8 g",
+    "Dietary Fiber": "3 g",
+    "Protein": "30 g",
+    "Cholesterol": "75 mg",
+    "Sodium": "900 mg"
+  },
+  "ingredients": {
+    "Pizza Dough": ["1", "None"],
+    "Cooked Chicken": ["200 g", "None"],
+    "BBQ Sauce": ["1/2 cup", "None"],
+    "Red Onion": ["1 small", "None"],
+    "Mozzarella Cheese": ["1 1/2 cups", "None"]
+  },
+  "allergens": ["Gluten", "Milk"],
+  "likes": 0
+},
+{
+  "index": 32,
+  "name": "Shrimp and Asparagus Risotto",
+  "headline": "A luxurious risotto with tender shrimp and asparagus, cooked in a white wine and Parmesan broth.",
+  "prepTime": "PT40M",
+  "image": "None",
+  "tags": ["under 650 calories", "family-friendly", "gluten-free"],
+  "nutrition": {
+    "Energy": "1900 kJ",
+    "Calories": "455 kcal",
+    "Fat": "15 g",
+    "Saturated Fat": "5 g",
+    "Carbohydrate": "55 g",
+    "Sugar": "3 g",
+    "Dietary Fiber": "4 g",
+    "Protein": "30 g",
+    "Cholesterol": "120 mg",
+    "Sodium": "650 mg"
+  },
+  "ingredients": {
+    "Shrimp": ["300 g", "None"],
+    "Asparagus": ["200 g", "None"],
+    "Arborio Rice": ["1 cup", "None"],
+    "Onion": ["1 small", "None"],
+    "Garlic": ["2 cloves", "None"],
+    "White Wine": ["1/2 cup", "None"],
+    "Parmesan Cheese": ["1/2 cup", "None"],
+    "Chicken Stock": ["4 cups", "None"]
+  },
+  "allergens": ["Shellfish", "Milk"],
+  "likes": 0
+},
+{
+  "index": 31,
+  "name": "Cauliflower and Chickpea Curry",
+  "headline": "A flavorful curry dish with roasted cauliflower, chickpeas, and a rich tomato-based sauce, served over basmati rice.",
+  "prepTime": "PT35M",
+  "image": "None",
+  "tags": ["vegan", "under 650 calories", "gluten-free"],
+  "nutrition": {
+    "Energy": "1550 kJ",
+    "Calories": "370 kcal",
+    "Fat": "9 g",
+    "Saturated Fat": "1.3 g",
+    "Carbohydrate": "58 g",
+    "Sugar": "13 g",
+    "Dietary Fiber": "12 g",
+    "Protein": "15 g",
+    "Cholesterol": "0 mg",
+    "Sodium": "480 mg"
+  },
+  "ingredients": {
+    "Cauliflower": ["1 head", "None"],
+    "Chickpeas": ["1 can (400g)", "None"],
+    "Tomato Sauce": ["2 cups", "None"],
+    "Onion": ["1 large", "None"],
+    "Garlic": ["3 cloves", "None"],
+    "Ginger": ["1 inch piece", "None"],
+    "Spices": ["1 tbsp", "None"],
+    "Basmati Rice": ["1 1/2 cups", "None"]
+  },
+  "allergens": ["None"],
+  "likes": 0
+},
+{
+    "index": 34,
+    "name": "Lemon Herb Grilled Salmon",
+    "headline": "Deliciously grilled salmon fillets marinated in lemon and herbs, served with a side of steamed vegetables.",
+    "prepTime": "PT20M",
+    "image": "None",
+    "tags": ["under 650 calories", "gluten-free", "quick-prep, 10 min."],
+    "nutrition": {
+      "Energy": "1310 kJ",
+      "Calories": "313 kcal",
+      "Fat": "18 g",
+      "Saturated Fat": "3 g",
+      "Carbohydrate": "6 g",
+      "Sugar": "2 g",
+      "Dietary Fiber": "2 g",
+      "Protein": "34 g",
+      "Cholesterol": "85 mg",
+      "Sodium": "200 mg"
+    },
+    "ingredients": {
+      "Salmon Fillets": ["2 (150g each)", "None"],
+      "Lemon Juice": ["2 tbsp", "None"],
+      "Garlic": ["2 cloves, minced", "None"],
+      "Herbs (parsley, dill, thyme)": ["1 tbsp, chopped", "None"],
+      "Olive Oil": ["1 tbsp", "None"],
+      "Mixed Vegetables (carrots, broccoli, bell peppers)": ["2 cups, chopped", "None"]
+    },
+    "allergens": ["Fish"],
+    "likes": 0
+},
+{
+    "index": 35,
+    "name": "Veggie Breakfast Burrito",
+    "headline": "A hearty and healthy breakfast burrito filled with scrambled eggs, bell peppers, onions, and cheese.",
+    "prepTime": "PT15M",
+    "image": "None",
+    "tags": ["quick-prep, 10 min.", "under 30 minutes", "vegetarian"],
+    "nutrition": {
+      "Energy": "1550 kJ",
+      "Calories": "370 kcal",
+      "Fat": "18 g",
+      "Saturated Fat": "6 g",
+      "Carbohydrate": "35 g",
+      "Sugar": "6 g",
+      "Dietary Fiber": "5 g",
+      "Protein": "20 g",
+      "Cholesterol": "195 mg",
+      "Sodium": "790 mg"
+    },
+    "ingredients": {
+      "Tortillas": ["2 large", "None"],
+      "Eggs": ["4", "None"],
+      "Bell Peppers": ["1 cup, chopped", "None"],
+      "Onion": ["1/2 cup, chopped", "None"],
+      "Cheddar Cheese": ["1/2 cup, shredded", "None"],
+      "Olive Oil": ["1 tbsp", "None"],
+      "Salt and Pepper": ["To taste", "None"]
+    },
+    "allergens": ["Eggs", "Milk", "Gluten"],
+    "likes": 0
+  },
+  {
+    "index": 36,
+    "name": "Moroccan Chickpea Stew",
+    "headline": "A warm and spicy stew with chickpeas, tomatoes, and Moroccan spices, served over couscous.",
+    "prepTime": "PT40M",
+    "image": "None",
+    "tags": ["vegan", "under 650 calories", "family-friendly"],
+    "nutrition": {
+      "Energy": "1680 kJ",
+      "Calories": "400 kcal",
+      "Fat": "10 g",
+      "Saturated Fat": "1.4 g",
+      "Carbohydrate": "65 g",
+      "Sugar": "12 g",
+      "Dietary Fiber": "15 g",
+      "Protein": "18 g",
+      "Cholesterol": "0 mg",
+      "Sodium": "600 mg"
+    },
+    "ingredients": {
+      "Chickpeas": ["1 can (400g), drained", "None"],
+      "Diced Tomatoes": ["1 can (400g)", "None"],
+      "Onion": ["1 large, chopped", "None"],
+      "Garlic": ["3 cloves, minced", "None"],
+      "Moroccan Spice Blend (cumin, coriander, cinnamon)": ["2 tbsp", "None"],
+      "Vegetable Broth": ["2 cups", "None"],
+      "Couscous": ["1 1/2 cups", "None"]
+    },
+    "allergens": ["Gluten"],
+    "likes": 0
+  },
+  {
+    "index": 37,
+    "name": "Zucchini Noodles with Pesto",
+    "headline": "A light and healthy dish with spiralized zucchini noodles tossed in a fresh homemade pesto sauce.",
+    "prepTime": "PT15M",
+    "image": "None",
+    "tags": ["vegan", "under 30 minutes", "gluten-free"],
+    "nutrition": {
+      "Energy": "980 kJ",
+      "Calories": "234 kcal",
+      "Fat": "18 g",
+      "Saturated Fat": "2.5 g",
+      "Carbohydrate": "14 g",
+      "Sugar": "6 g",
+      "Dietary Fiber": "4 g",
+      "Protein": "6 g",
+      "Cholesterol": "0 mg",
+      "Sodium": "250 mg"
+    },
+    "ingredients": {
+      "Zucchini": ["2 large, spiralized", "None"],
+      "Basil": ["1 cup", "None"],
+      "Pine Nuts": ["1/4 cup", "None"],
+      "Garlic": ["1 clove", "None"],
+      "Parmesan Cheese": ["1/4 cup, grated", "None"],
+      "Olive Oil": ["1/4 cup", "None"],
+      "Lemon Juice": ["1 tbsp", "None"]
+    },
+    "allergens": ["Tree Nuts", "Milk"],
+    "likes": 0
+  },
+  {
+    "index": 38,
+    "name": "Chicken Tikka Masala",
+    "headline": "A popular Indian dish with grilled chicken pieces in a creamy tomato sauce, served with rice and naan.",
+    "prepTime": "PT1H",
+    "image": "None",
+    "tags": ["family-friendly", "under 650 calories", "bestseller"],
+    "nutrition": {
+      "Energy": "1870 kJ",
+      "Calories": "447 kcal",
+      "Fat": "20 g",
+      "Saturated Fat": "6 g",
+      "Carbohydrate": "40 g",
+      "Sugar": "6 g",
+      "Dietary Fiber": "5 g",
+      "Protein": "30 g",
+      "Cholesterol": "105 mg",
+      "Sodium": "650 mg"
+    },
+    "ingredients": {
+      "Chicken Breast": ["500 g, cubed", "None"],
+      "Yogurt": ["1/2 cup", "None"],
+      "Tikka Masala Paste": ["1/4 cup", "None"],
+      "Tomatoes": ["1 can (400g), diced", "None"],
+      "Cream": ["1/2 cup", "None"],
+      "Rice": ["1 1/2 cups", "None"],
+      "Naan": ["2", "None"],
+      "Cilantro": ["For garnish", "None"]
+    },
+    "allergens": ["Milk", "Gluten"],
+    "likes": 0
+  },
+  {
+    "index": 39,
+    "name": "Stuffed Bell Peppers",
+    "headline": "Colorful bell peppers stuffed with a mixture of ground beef, rice, tomatoes, and cheese, baked until tender.",
+    "prepTime": "PT1H",
+    "image": "None",
+    "tags": ["under 650 calories", "gluten-free", "family-friendly"],
+    "nutrition": {
+      "Energy": "1600 kJ",
+      "Calories": "382 kcal",
+      "Fat": "18 g",
+      "Saturated Fat": "7 g",
+      "Carbohydrate": "35 g",
+      "Sugar": "6 g",
+      "Dietary Fiber": "6 g",
+      "Protein": "20 g",
+      "Cholesterol": "60 mg",
+      "Sodium": "500 mg"
+    },
+    "ingredients": {
+      "Bell Peppers": ["4", "None"],
+      "Ground Beef": ["400 g", "None"],
+      "Cooked Rice": ["1 cup", "None"],
+      "Diced Tomatoes": ["1 can (400g)", "None"],
+      "Shredded Cheddar Cheese": ["1 cup", "None"],
+      "Onion": ["1 small, chopped", "None"],
+      "Garlic": ["2 cloves, minced", "None"],
+      "Olive Oil": ["1 tbsp", "None"]
+    },
+    "allergens": ["Milk"],
+    "likes": 0
+  },
+  {
+    "index": 40,
+    "name": "Maple Glazed Salmon",
+    "headline": "A sweet and savory salmon dish glazed with maple syrup and Dijon mustard, served with a side of roasted vegetables.",
+    "prepTime": "PT30M",
+    "image": "None",
+    "tags": ["under 650 calories", "quick-prep, 10 min.", "gluten-free"],
+    "nutrition": {
+      "Energy": "1460 kJ",
+      "Calories": "349 kcal",
+      "Fat": "15 g",
+      "Saturated Fat": "2 g",
+      "Carbohydrate": "20 g",
+      "Sugar": "12 g",
+      "Dietary Fiber": "3 g",
+      "Protein": "34 g",
+      "Cholesterol": "90 mg",
+      "Sodium": "400 mg"
+    },
+    "ingredients": {
+      "Salmon Fillets": ["2 (150g each)", "None"],
+      "Maple Syrup": ["3 tbsp", "None"],
+      "Dijon Mustard": ["1 tbsp", "None"],
+      "Garlic": ["1 clove, minced", "None"],
+      "Mixed Vegetables (carrots, Brussels sprouts, bell peppers)": ["2 cups, chopped", "None"],
+      "Olive Oil": ["1 tbsp", "None"],
+      "Salt and Pepper": ["To taste", "None"]
+    },
+    "allergens": ["Fish", "Mustard"],
+    "likes": 0
+  },
+  {
+    "index": 41,
+    "name": "Spaghetti Carbonara",
+    "headline": "A classic Italian pasta dish made with spaghetti, crispy pancetta, eggs, and Parmesan cheese.",
+    "prepTime": "PT20M",
+    "image": "None",
+    "tags": ["under 30 minutes", "family-friendly", "bestseller"],
+    "nutrition": {
+      "Energy": "1850 kJ",
+      "Calories": "442 kcal",
+      "Fat": "18 g",
+      "Saturated Fat": "6 g",
+      "Carbohydrate": "54 g",
+      "Sugar": "2 g",
+      "Dietary Fiber": "3 g",
+      "Protein": "20 g",
+      "Cholesterol": "175 mg",
+      "Sodium": "600 mg"
+    },
+    "ingredients": {
+      "Spaghetti": ["400 g", "None"],
+      "Pancetta": ["150 g, diced", "None"],
+      "Eggs": ["2", "None"],
+      "Parmesan Cheese": ["1/2 cup, grated", "None"],
+      "Garlic": ["1 clove, minced", "None"],
+      "Black Pepper": ["To taste", "None"],
+      "Parsley": ["For garnish", "None"]
+    },
+    "allergens": ["Eggs", "Gluten", "Milk"],
+    "likes": 0
+  },
+  {
+    "index": 42,
+    "name": "Vegetable Paella",
+    "headline": "A Spanish-inspired rice dish loaded with a variety of vegetables like bell peppers, peas, and artichokes, flavored with saffron and smoked paprika.",
+    "prepTime": "PT40M",
+    "image": "None",
+    "tags": ["vegan", "under 650 calories", "family-friendly"],
+    "nutrition": {
+      "Energy": "1600 kJ",
+      "Calories": "382 kcal",
+      "Fat": "10 g",
+      "Saturated Fat": "1.5 g",
+      "Carbohydrate": "65 g",
+      "Sugar": "8 g",
+      "Dietary Fiber": "9 g",
+      "Protein": "9 g",
+      "Cholesterol": "0 mg",
+      "Sodium": "550 mg"
+    },
+    "ingredients": {
+      "Arborio Rice": ["1 1/2 cups", "None"],
+      "Vegetable Stock": ["4 cups", "None"],
+      "Red Bell Pepper": ["1", "None"],
+      "Green Peas": ["1 cup", "None"],
+      "Artichoke Hearts": ["1 can (400g)", "None"],
+      "Onion": ["1 medium, chopped", "None"],
+      "Garlic": ["3 cloves, minced", "None"],
+      "Saffron": ["A pinch", "None"],
+      "Smoked Paprika": ["1 tsp", "None"],
+      "Olive Oil": ["2 tbsp", "None"]
+    },
+    "allergens": ["None"],
+    "likes": 0
+  }
+]
+  
+  
+  
+  
+  
+  
+  
